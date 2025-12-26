@@ -6,10 +6,9 @@
 
 ###  :space_invader: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp; :boy: &nbsp;Detail-oriented and resourceful student with strong technical skills. \
-&nbsp;&nbsp;&nbsp; :hammer: &nbsp;Expertise in computer assembly, troubleshooting, and digital selling.\
-&nbsp;&nbsp;&nbsp; :seedling: &nbsp;Quick learner of new tools and processes, adapting to office or rigid settings.\
-&nbsp;&nbsp;&nbsp; :rocket: &nbsp;Committed to resilience, efficiency, and delivering high-quality team results.\
+&nbsp;&nbsp;&nbsp; :boy: &nbsp;Currently fixing my portfolio for internship. \
+&nbsp;&nbsp;&nbsp; :hammer: &nbsp;Loves computer assembly and troubleshooting.\
+&nbsp;&nbsp;&nbsp; :rocket: &nbsp;Looking forward to learning more and starting my journey in the IT industry.\
 &nbsp;&nbsp;&nbsp; :pencil: &nbsp;Familiar with online marketing strategies and problem-solving.
 
 <p align="center">
