@@ -57,7 +57,6 @@
   ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
   ![MySQL](https://img.shields.io/badge/MYSQL-4479A1.svg?style=flat&logo=mysql&logoColor=white) 
   ![Postgres](https://img.shields.io/badge/POSTGRES-%23316192.svg?style=flat&logo=postgresql&logoColor=white) 
-
   <br/>
 
   <b>🛠️ Development & Environments</b><br/>
@@ -66,7 +65,6 @@
   ![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=flat&logo=arduino&logoColor=white)
   ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white)
   ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=flat&logo=jupyter&logoColor=white)
-
   <br/>
 
   <b>🎨 Design & Productivity</b><br/>
