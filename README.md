@@ -61,13 +61,5 @@
     <p align="center">
         <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=MiksFlavor&hide_border=true&theme=vision-friendly-dark" />
     </p>
-    <p align="center">
-        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=MiksFlavor&hide_title=true&hide_border=true&show_icons=true&include_all_commits=false&count_private=false&line_height=21&theme=vision-friendly-dark" /> 
-        <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiksFlavor&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=vision-friendly-dark" />
-    </p>
-    <p align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=MiksFlavor&theme=radical&no-frame=false&margin-w=4" />
-    </p>
 </details>
-
 <hr/>
