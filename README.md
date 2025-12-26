@@ -20,7 +20,7 @@
 <hr/>
 
 <details open>
-  <summary><b>💻 :computer: &nbsp;Tech Stack & Tools</b></summary>
+  <summary><b> :computer: &nbsp;Tech Stack & Tools</b></summary>
   <br/>
 
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 
@@ -39,7 +39,7 @@
 </details>
 
 <details>
-  <summary><b>⚙️ :gear: &nbsp;GitHub Statistics</b></summary>
+  <summary><b> :gear: &nbsp;GitHub Statistics</b></summary>
   <br/>
     <p align="center">
         <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=MiksFlavor&hide_border=true&theme=vision-friendly-dark" />
