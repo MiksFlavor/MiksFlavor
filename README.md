@@ -1,10 +1,10 @@
 <img src="https://raw.githubusercontent.com/MiksFlavor/MiksFlavor/main/images/svg/header_en.svg" onerror="this.src='https://placehold.co/600x200?text=Welcome+to+My+Profile'"></img>
 
 <table align="right">
- <tr><td><a href="README.md"> :us: 🇵🇭 </a></td></tr>
+  <tr><td><a href="README.md"> :us: 🇵🇭 </a></td></tr>
 </table>
 
-###  :space_invader: &nbsp;About Me
+### :space_invader: &nbsp;About Me
 
 &nbsp;&nbsp;&nbsp; :boy: &nbsp;Currently fixing my portfolio for internship. \
 &nbsp;&nbsp;&nbsp; :hammer: &nbsp;Loves computer assembly and troubleshooting.\
@@ -13,10 +13,18 @@
 
 <p align="center">
   <a href="https://instagram.com/rlph.mko"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/Ralph-Miko-Manangkil"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/Ralph-Miko-Manangkil"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-<hr/>
+---
+
+### 🌱 Currently Learning
+> I am actively expanding my front-end development skills with these technologies:
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+---
 
 <details open>
   <summary><b> :computer: &nbsp;Tech Stack & Tools</b></summary>
@@ -53,8 +61,3 @@
 </details>
 
 <hr/>
-
-<p align="right">
-<img src="https://komarev.com/ghpvc/?username=MiksFlavor&style=plastic&label=Profile+Views">
-<img src="https://badges.pufler.dev/visits/MiksFlavor/MiksFlavor?color=black&logo=github" />
-</p>
