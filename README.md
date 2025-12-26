@@ -54,12 +54,4 @@
 ![Notion](https://img.shields.io/badge/NOTION-%23000000.svg?style=flat&logo=notion&logoColor=white)
 
 </details>
-
-<details>
-  <summary><b> :gear: &nbsp;GitHub Statistics</b></summary>
-  <br/>
-    <p align="center">
-        <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=MiksFlavor&hide_border=true&theme=vision-friendly-dark" />
-    </p>
-</details>
 <hr/>
