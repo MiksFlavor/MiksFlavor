@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MiksFlavor/MiksFlavor/main/images/svg/header_en.svg" onerror="this.src='https://placehold.co/600x200?text=Welcome+to+My+Profile'"></img>
 
 <table align="right">
- <tr><td><a href="README.md">🇺🇸 :us: English</a></td></tr>
+ <tr><td><a href="README.md"> :us: 🇵🇭 </a></td></tr>
 </table>
 
 ###  :space_invader: &nbsp;About Me
