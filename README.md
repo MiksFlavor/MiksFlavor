@@ -22,8 +22,8 @@
 &nbsp;&nbsp;&nbsp; :pencil: &nbsp;Familiar with online marketing strategies and problem-solving.
 
 <p align="center">
-  <a href="https://instagram.com/rlph.mko"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/Ralph-Miko-Manangkil"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/_rlph.mko"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/ralph-miko-manangkil"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
