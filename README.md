@@ -1,4 +1,5 @@
 <img src="miksflavor%20lapp.jpg" alt="Header Image" width="30%">
+<img src="miksflavor%20banner.jfif" alt="Header Image" width="30%">
 
 <table align="right">
   <tr><td><a href="README.md"> :us: 🇵🇭 </a></td></tr>
