@@ -4,13 +4,13 @@
  <tr><td><a href="README.md">🇺🇸 :us: English</a></td></tr>
 </table>
 
-### 👾 :space_invader: &nbsp;About Me
+###  :space_invader: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;👦 :boy: &nbsp;Detail-oriented and resourceful student with strong technical skills. \
-&nbsp;&nbsp;&nbsp;🔨 :hammer: &nbsp;Expertise in computer assembly, troubleshooting, and digital selling.\
-&nbsp;&nbsp;&nbsp;🌱 :seedling: &nbsp;Quick learner of new tools and processes, adapting to office or rigid settings.\
-&nbsp;&nbsp;&nbsp;🚀 :rocket: &nbsp;Committed to resilience, efficiency, and delivering high-quality team results.\
-&nbsp;&nbsp;&nbsp;📝 :pencil: &nbsp;Familiar with online marketing strategies and problem-solving.
+&nbsp;&nbsp;&nbsp; :boy: &nbsp;Detail-oriented and resourceful student with strong technical skills. \
+&nbsp;&nbsp;&nbsp; :hammer: &nbsp;Expertise in computer assembly, troubleshooting, and digital selling.\
+&nbsp;&nbsp;&nbsp; :seedling: &nbsp;Quick learner of new tools and processes, adapting to office or rigid settings.\
+&nbsp;&nbsp;&nbsp; :rocket: &nbsp;Committed to resilience, efficiency, and delivering high-quality team results.\
+&nbsp;&nbsp;&nbsp; :pencil: &nbsp;Familiar with online marketing strategies and problem-solving.
 
 <p align="center">
   <a href="https://instagram.com/rlph.mko"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
