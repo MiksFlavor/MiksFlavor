@@ -1,14 +1,19 @@
-<img src="https://raw.githubusercontent.com/MiksFlavor/MiksFlavor/main/images/svg/header_en.svg" onerror="this.src='https://placehold.co/600x200?text=Welcome+to+My+Profile'"></img>
-
 <table align="right">
   <tr><td><a href="README.md"> :us: 🇵🇭 </a></td></tr>
 </table>
 
-<p align="center">
-  <img src="miksflavor%20lapp.jpg" alt="Lapp Image" width="49.5%">
-  <img src="miksflavor%20banner.jfif" alt="Banner Image" width="49.5%">
-</p>
+<br />
 
+<table border="0">
+  <tr>
+    <td width="30%" valign="top">
+      <img src="miksflavor%20lapp.jpg" alt="Lapp Image" width="100%">
+    </td>
+    <td width="70%" valign="top">
+      <img src="miksflavor%20banner.jfif" alt="Banner Image" width="100%">
+    </td>
+  </tr>
+</table>
 ### :space_invader: &nbsp;About Me
 
 &nbsp;&nbsp;&nbsp; :boy: &nbsp;Currently fixing my portfolio for internship. \
