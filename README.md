@@ -1,16 +1,16 @@
 <img src="https://raw.githubusercontent.com/MiksFlavor/MiksFlavor/main/images/svg/header_en.svg" onerror="this.src='https://placehold.co/600x200?text=Welcome+to+My+Profile'"></img>
 
 <table align="right">
- <tr><td><a href="README.md">🇺🇸 English</a></td></tr>
+ <tr><td><a href="README.md">🇺🇸 :us: English</a></td></tr>
 </table>
 
-### :space_invader: &nbsp;About Me
+### 👾 :space_invader: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;:student: &nbsp;Detail-oriented and resourceful student with strong technical skills. \
-&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Expertise in computer assembly, troubleshooting, and digital selling.\
-&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Quick learner of new tools and processes, adapting to office or rigid settings.\
-&nbsp;&nbsp;&nbsp;:rocket: &nbsp;Committed to resilience, efficiency, and delivering high-quality team results.\
-&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Familiar with online marketing strategies and problem-solving.
+&nbsp;&nbsp;&nbsp;👦 :boy: &nbsp;Detail-oriented and resourceful student with strong technical skills. \
+&nbsp;&nbsp;&nbsp;🔨 :hammer: &nbsp;Expertise in computer assembly, troubleshooting, and digital selling.\
+&nbsp;&nbsp;&nbsp;🌱 :seedling: &nbsp;Quick learner of new tools and processes, adapting to office or rigid settings.\
+&nbsp;&nbsp;&nbsp;🚀 :rocket: &nbsp;Committed to resilience, efficiency, and delivering high-quality team results.\
+&nbsp;&nbsp;&nbsp;📝 :pencil: &nbsp;Familiar with online marketing strategies and problem-solving.
 
 <p align="center">
   <a href="https://instagram.com/rlph.mko"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -20,7 +20,7 @@
 <hr/>
 
 <details open>
-  <summary><b>:computer: &nbsp;Tech Stack & Tools</b></summary>
+  <summary><b>💻 :computer: &nbsp;Tech Stack & Tools</b></summary>
   <br/>
 
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 
@@ -39,7 +39,7 @@
 </details>
 
 <details>
-  <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
+  <summary><b>⚙️ :gear: &nbsp;GitHub Statistics</b></summary>
   <br/>
     <p align="center">
         <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=MiksFlavor&hide_border=true&theme=vision-friendly-dark" />
