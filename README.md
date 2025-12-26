@@ -27,18 +27,12 @@
 ![Java](https://img.shields.io/badge/JAVA-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
 ![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?style=flat&logo=python&logoColor=white) 
-![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=flat&logo=php&logoColor=white) 
-![PowerShell](https://img.shields.io/badge/POWERSHELL-5391FE.svg?style=flat&logo=powershell&logoColor=white) \
+![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=flat&logo=php&logoColor=white) \
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=flat&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
-![Vercel](https://img.shields.io/badge/VERCEL-000000.svg?style=flat&logo=vercel&logoColor=white) 
-![Firebase](https://img.shields.io/badge/FIREBASE-FFCA28.svg?style=flat&logo=firebase&logoColor=black) 
 ![MySQL](https://img.shields.io/badge/MYSQL-4479A1.svg?style=flat&logo=mysql&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/POSTGRES-%23316192.svg?style=flat&logo=postgresql&logoColor=white) \
 ![Canva](https://img.shields.io/badge/CANVA-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) 
-![Figma](https://img.shields.io/badge/FIGMA-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) 
-![Photoshop](https://img.shields.io/badge/PHOTOSHOP-31A8FF.svg?style=flat&logo=adobe-photoshop&logoColor=white) 
-![Gimp](https://img.shields.io/badge/GIMP-657D8B.svg?style=flat&logo=gimp&logoColor=white) 
 ![Krita](https://img.shields.io/badge/KRITA-203759.svg?style=flat&logo=krita&logoColor=EEF37B) 
 ![Notion](https://img.shields.io/badge/NOTION-%23000000.svg?style=flat&logo=notion&logoColor=white)
 
