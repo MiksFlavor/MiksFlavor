@@ -12,6 +12,7 @@
     <td width="70%" valign="top">
       <img src="miksflavor%20banner.jfif" alt="Banner Image" width="100%">
       <p align="center">
+        <strong>MIKS FLAVOR</strong><br>
         PC Building • Troubleshooting • Used Parts & Scrap Selling • Commission Seller - with a dash of art.<br>
         🎨 <i>Currently not accepting art commissions.</i>
       </p>
@@ -27,8 +28,10 @@
 &nbsp;&nbsp;&nbsp; :pencil: &nbsp;Familiar with online marketing strategies and problem-solving.
 
 <p align="center">
-  <a href="https://instagram.com/_rlph.mko"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/ralph-miko-manangkil"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/_rlph.mko"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/ralph-miko-manangkil"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
+  <a href="https://facebook.com/miko.manangkil"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;
+  <a href="https://discordapp.com/users/452321101159202819"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
 
 ---
@@ -54,6 +57,15 @@
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/MYSQL-4479A1.svg?style=flat&logo=mysql&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/POSTGRES-%23316192.svg?style=flat&logo=postgresql&logoColor=white) \
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=flat&logo=arduino&logoColor=white)
+
+<br/>
+
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat&logo=visual-studio&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=flat&logo=jupyter&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/CANVA-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) 
 ![Krita](https://img.shields.io/badge/KRITA-203759.svg?style=flat&logo=krita&logoColor=EEF37B) 
 ![Notion](https://img.shields.io/badge/NOTION-%23000000.svg?style=flat&logo=notion&logoColor=white)
