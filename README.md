@@ -11,9 +11,15 @@
     </td>
     <td width="70%" valign="top">
       <img src="miksflavor%20banner.jfif" alt="Banner Image" width="100%">
+      <p align="center">
+        <strong>MIKS FLAVOR</strong><br>
+        PC Building • Troubleshooting • Used Parts & Scrap Selling • Commission Seller - with a dash of art.<br>
+        🎨 <i>Currently not accepting art commissions.</i>
+      </p>
     </td>
   </tr>
 </table>
+
 ### :space_invader: &nbsp;About Me
 
 &nbsp;&nbsp;&nbsp; :boy: &nbsp;Currently fixing my portfolio for internship. \
